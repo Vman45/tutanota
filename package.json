@@ -52,7 +52,7 @@
 		"js-yaml": "3.13.1",
 		"mithril-node-render": "2.3.0",
 		"mockery": "^2.1.0",
-		"node-forge": "0.9.1",
+		"node-forge": "0.10.0",
 		"node-static": "0.7.11",
 		"ospec": "4.0.1",
 		"request": "2.88.0",
